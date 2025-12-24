@@ -1,0 +1,7 @@
+D:\Catalyst\SpExecutor\SpExecutor\bin\Debug\SpExecutor.exe.config
+D:\Catalyst\SpExecutor\SpExecutor\bin\Debug\SpExecutor.exe
+D:\Catalyst\SpExecutor\SpExecutor\bin\Debug\SpExecutor.pdb
+D:\Catalyst\SpExecutor\SpExecutor\obj\Debug\SpExecutor.csproj.AssemblyReference.cache
+D:\Catalyst\SpExecutor\SpExecutor\obj\Debug\SpExecutor.csproj.CoreCompileInputs.cache
+D:\Catalyst\SpExecutor\SpExecutor\obj\Debug\SpExecutor.exe
+D:\Catalyst\SpExecutor\SpExecutor\obj\Debug\SpExecutor.pdb

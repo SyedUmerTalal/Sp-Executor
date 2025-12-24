@@ -1,0 +1,10 @@
+﻿DatabaseIP=10.2.0.221
+DatabaseName=CATS(Main)
+DbUser=sa
+DbPassword=catalyst
+DelaySeconds=10
+
+StoredProcedures:
+[dbo].[MARGIN_AnalyzeMargins]
+[dbo].[WSS_GetEncryptionKeys]
+[dbo].[MARGIN_AnalyzeMargins]
